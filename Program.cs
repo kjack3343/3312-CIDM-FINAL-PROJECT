@@ -1,9 +1,23 @@
+using _3312_CIDM_FINAL_PROJECT;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+builder.Services.AddDbContext<PlaybookDbContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("PlaybookContext") ?? throw new InvalidOperationException("Connection string 'PlaybookContext' not found.")));
+builder.Services.AddDbContext<PlaybookDbContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("PlaybookContext")));
 
 var app = builder.Build();
+
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    SeedData.Initialize(services);
+}
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

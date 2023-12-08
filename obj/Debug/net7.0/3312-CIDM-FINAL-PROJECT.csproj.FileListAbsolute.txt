@@ -1,0 +1,9 @@
+C:\Users\kyler\OneDrive\Desktop\CIDM 3312\3312-CIDM-FINAL-PROJECT\obj\Debug\net7.0\3312-CIDM-FINAL-PROJECT.csproj.AssemblyReference.cache
+C:\Users\kyler\OneDrive\Desktop\CIDM 3312\3312-CIDM-FINAL-PROJECT\obj\Debug\net7.0\3312-CIDM-FINAL-PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyler\OneDrive\Desktop\CIDM 3312\3312-CIDM-FINAL-PROJECT\obj\Debug\net7.0\3312-CIDM-FINAL-PROJECT.AssemblyInfoInputs.cache
+C:\Users\kyler\OneDrive\Desktop\CIDM 3312\3312-CIDM-FINAL-PROJECT\obj\Debug\net7.0\3312-CIDM-FINAL-PROJECT.AssemblyInfo.cs
+C:\Users\kyler\OneDrive\Desktop\CIDM 3312\3312-CIDM-FINAL-PROJECT\obj\Debug\net7.0\3312-CIDM-FINAL-PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\kyler\OneDrive\Desktop\CIDM 3312\3312-CIDM-FINAL-PROJECT\obj\Debug\net7.0\3312-CIDM-FINAL-PROJECT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kyler\OneDrive\Desktop\CIDM 3312\3312-CIDM-FINAL-PROJECT\obj\Debug\net7.0\3312-CIDM-FINAL-PROJECT.RazorAssemblyInfo.cache
+C:\Users\kyler\OneDrive\Desktop\CIDM 3312\3312-CIDM-FINAL-PROJECT\obj\Debug\net7.0\3312-CIDM-FINAL-PROJECT.RazorAssemblyInfo.cs
+C:\Users\kyler\OneDrive\Desktop\CIDM 3312\3312-CIDM-FINAL-PROJECT\obj\Debug\net7.0\3312-CIDM-FINAL-PROJECT.sourcelink.json
